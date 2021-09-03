@@ -1,4 +1,4 @@
-# branding
+# DEEPSPACE (DPS) - Branding
 
 Branding material for DEEPSPACE (DPS) - Learn more at https://deepspace.game
 
